@@ -12,7 +12,7 @@ buildscript {
 apply plugin: 'com.android.library'
 
 android {
-	namespace "com.jigsaw.extension.videoview"
+	namespace "extensions.videoview"
 	sourceSets {
 		main {
 			manifest.srcFile 'AndroidManifest.xml'

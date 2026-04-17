@@ -5,7 +5,7 @@ import lime.system.JNI;
 #end
 
 /**
- * @author: Saw (M.A. Jigsaw)
+ * @author Saw (M.A. Jigsaw)
  */
 class VideoView
 {

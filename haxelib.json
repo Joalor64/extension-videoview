@@ -1,0 +1,18 @@
+{
+  "name": "extension-videoview",
+  "url": "https://github.com/Joalor64/extension-videoview",
+  "license": "MIT",
+  "tags": [
+    "android",
+    "haxeflixel",
+    "java",
+    "video"
+  ],
+  "description": "Basic native video support for Android in HaxeFlixel using Java VideoView.",
+  "version": "1.0.0",
+  "releasenote": "",
+  "contributors": [
+    "MAJigsaw77"
+  ],
+  "dependencies": {}
+}

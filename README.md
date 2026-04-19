@@ -1,17 +1,17 @@
-# `extension-videoview`
+# extension-videoview
 ![](https://img.shields.io/github/repo-size/Joalor64/extension-videoview) ![](https://badgen.net/github/open-issues/Joalor64/extension-videoview) ![](https://badgen.net/badge/license/MIT/green)
 
 Basic native video support for Android in HaxeFlixel using Java VideoView.
 
 ## Installation
-To install `extension-videoview`, follow these steps:
+To install **extension-videoview**, follow these steps:
 1. Install the latest stable version with this command:
-	```
+	```bash
 	haxelib install extension-videoview
 	```
 
 	You can also install through Git for the latest updates.
-	```
+	```bash
 	haxelib git extension-videoview https://github.com/Joalor64/extension-videoview
 	```
 
@@ -51,6 +51,9 @@ class VideoPlayer extends FlxBasic
 
 By the way, this extension can also run videos from the web browser.
 
+## Licensing
+**extension-videoview** is made available under the MIT License. Check [LICENSE](./LICENSE) for more information.
+
 ## Credits
-* <a href = "https://github.com/MAJigsaw77">Mihai Alexandru (M.A. Jigsaw)</a> - Creator of **`extension-videoview`**
+* <a href = "https://github.com/MAJigsaw77">Mihai Alexandru (M.A. Jigsaw)</a> - Creator of **extension-videoview**
 * <a href = "https://github.com/Joalor64">Joalor64</a> - Fixes and Adjustments

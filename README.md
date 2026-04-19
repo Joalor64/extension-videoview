@@ -3,6 +3,7 @@ Basic native video support for Android in HaxeFlixel using Java VideoView.
 
 ## Credits
 * <a href = "https://github.com/MAJigsaw77">Mihai Alexandru (M.A. Jigsaw)</a> - Creator of **`extension-videoview`**
+* <a href = "https://github.com/Joalor64">Joalor64</a> - Fixes and Adjustments
 
 ## Example of How to Use It
 ```haxe
@@ -20,7 +21,7 @@ class VideoPlayer extends FlxBasic
 		super();
 
 		#if android
-		VideoView.playVideo('file:///storage/emulated/0/Videos/video.mp4'); // the video can be in any format (e.g., .webm, .mkv, .etc)
+		VideoView.playVideo('assets/videos/video.mp4'); // the video can be in any format (e.g., .webm, .mkv, .etc)
 		VideoView.onCompletion = function()
 		{
 			if (finishCallback != null)

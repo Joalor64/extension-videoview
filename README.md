@@ -5,6 +5,7 @@ Basic native video support for Android in HaxeFlixel using Java VideoView.
 
 ## Installation
 To install **extension-videoview**, follow these steps:
+
 1. Install the latest stable version with this command:
 	```bash
 	haxelib install extension-videoview

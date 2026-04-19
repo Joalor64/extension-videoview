@@ -10,7 +10,7 @@
   ],
   "description": "Basic native video support for Android in HaxeFlixel using Java VideoView.",
   "version": "1.0.0",
-  "releasenote": "",
+  "releasenote": "Initial release.",
   "contributors": [
     "MAJigsaw77",
     "Joalor64"
